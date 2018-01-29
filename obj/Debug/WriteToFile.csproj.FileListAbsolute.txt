@@ -1,0 +1,7 @@
+C:\Users\Clifton\source\repos\WriteToFile\WriteToFile\bin\Debug\WriteToFile.exe.config
+C:\Users\Clifton\source\repos\WriteToFile\WriteToFile\bin\Debug\WriteToFile.exe
+C:\Users\Clifton\source\repos\WriteToFile\WriteToFile\bin\Debug\WriteToFile.pdb
+C:\Users\Clifton\source\repos\WriteToFile\WriteToFile\obj\Debug\WriteToFile.csproj.CoreCompileInputs.cache
+C:\Users\Clifton\source\repos\WriteToFile\WriteToFile\obj\Debug\WriteToFile.exe
+C:\Users\Clifton\source\repos\WriteToFile\WriteToFile\obj\Debug\WriteToFile.pdb
+C:\Users\Clifton\source\repos\WriteToFile\WriteToFile\obj\Debug\WriteToFile.csprojResolveAssemblyReference.cache
